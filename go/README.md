@@ -1,4 +1,4 @@
-		Exercise 1 From Assignments from GoBlokcchain.
+			Exercise 1 From Assignments from GoBlokcchain.
 
 Purpose: Simple form created to demonstrate skills of HTML, Js and Bootstrap.
 
