@@ -1,0 +1,25 @@
+site:NYTimes.com SEARCH TERMS HERE
+financial tutorials after:2010 before:2015
+I * rock n'roll
+"MyFirstName MyLastName"
+Romantism -wikipedia
+
+APT - Advanced Package Tools:
+This is a package that makes it easier and quicker to install
+any software without the low-level required to installation.
+
+SUDO - sudo is a command that lets me have root priveleges to do what I want
+to do right now. Root privileges can be dangerous if I type a wrong command.
+So, when running a normal command, I run it with my own user, which is different
+from the root user. Appending sudo at the beginning will help me have more 
+privileges.
+
+Command Line = Bash = Shell:
+cat index.html - shows the content of the file.
+echo "Caio!" - shows on the command line this string
+$ ls -a (-a is an option)
+$ node -v (-v is a flag)
+flag is related to a program.
+user@ubuntu:~ $ echo "I'm writing to a text file!" > file1.txt (Writing to a file)
+
+$PATH is important because it allows you to run programs from your command line without specifying the directory where the program is located. For example, you can run $ npm install dependencies without specifying where npm is located because your computer has Node and npm linked on the $PATH variable.
